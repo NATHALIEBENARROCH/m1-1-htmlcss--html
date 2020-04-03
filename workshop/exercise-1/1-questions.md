@@ -41,17 +41,19 @@ c) You want to sell designer hats. You need to receive orders from the user.
   </input>
 </form>
 
-## Q4 - Can a button be a child of a button? 
-no because a button must be the parent of a link. 
+## Q4 - Can a button be a child of a button?
+
+no because a button must be the parent of a link.
 
 ## Q5 - What is the most generic tag you can use?
+
 the head tag
 body tag
 footer tag
 
 ## Q6 - What do the following achronyms stand for?
 
-a) `a` znchor tag
+a) `a` anchor tag
 
 b) `ol` ordered lists
 
@@ -65,8 +67,9 @@ f) `th`table head
 
 g) `td` table data
 
-## Q7 - Usually, `td` elements are children of what kind of elements? 
- child of `tr` or table row
+## Q7 - Usually, `td` elements are children of what kind of elements?
+
+child of `tr` or table row
 
 ## Q8 - What is the difference between td and th?
 
@@ -82,8 +85,8 @@ for images such as
 <img src="cover.jpg" />
 
 ## Q11 - What is autofilling and why is it important?
-forms can be autofilled by your browser which means that your browser has "saved" some of your usual answers like name and address
 
+forms can be autofilled by your browser which means that your browser has "saved" some of your usual answers like name and address
 
 ## Q12 - Which attributes are always present in an img element?
 
@@ -91,5 +94,6 @@ the source and alt attribute as in
 <img src="cover.jpg" alt="short description">
 
 ## Q13 - Which attribute is always present for an anchor tag?
- the href attribute 
- <a href="https://www.udacity.com">Udacity</a>
+
+the href attribute
+<a href="https://www.udacity.com">Udacity</a>
